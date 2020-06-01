@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hello World ...!!!</h1>
+      <h1>Hello Durity ...!!!</h1>
       {
         people.map((p, i) => <h2>{p.name}</h2>)
       }
